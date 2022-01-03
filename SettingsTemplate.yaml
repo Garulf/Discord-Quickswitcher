@@ -1,0 +1,12 @@
+body:
+  - type: textBlock
+    attributes:
+      name: description
+      description: >
+        Instructions on generating an API key are located on this plugins Github page.
+        Please click the "Website" link below.
+  - type: input
+    attributes:
+      name: api_key
+      label: Discord API key
+      defaultValue: ""

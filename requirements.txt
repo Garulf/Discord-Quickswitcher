@@ -1,0 +1,3 @@
+git+git://github.com/garulf/flox@v0.8.5#egg=flox
+websocket-client==1.2.3
+requests==2.26.0
