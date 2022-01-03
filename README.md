@@ -13,3 +13,5 @@ Once your dev tools are open simply type anything into Discord's message box and
 You will find the API key you need under the "Authorization" header as shown below:
 ![image](https://user-images.githubusercontent.com/535299/147920251-61a12dd6-1e04-4077-af43-8616a1bf063b.png)
 
+Enter your API key in Discord Quickswitcher's settings.
+
