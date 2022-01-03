@@ -1,12 +1,12 @@
 {
-    "ID": "7D09BB1851EF41B79444BB7D35A0C324",
-    "ActionKeyword": "di",
-    "Name": "Discord Quickswitcher",
-    "Description": "Quickly switch Discord channels",
-    "Author": "Garulf",
-    "Version": "0.1.0",
-    "Language": "python",
-    "Website": "https://github.com/Garulf/discord_quickswitcher",
-    "IcoPath": "./icon.png",
-    "ExecuteFileName": "run.py"
+  "ID": "7D09BB1851EF41B79444BB7D35A0C324",
+  "ActionKeyword": "di",
+  "Name": "Discord Quickswitcher",
+  "Description": "Quickly switch Discord channels",
+  "Author": "Garulf",
+  "Version": "0.1.0",
+  "Language": "python",
+  "Website": "https://github.com/Garulf/discord_quickswitcher",
+  "IcoPath": "./icon.png",
+  "ExecuteFileName": "run.py"
 }
